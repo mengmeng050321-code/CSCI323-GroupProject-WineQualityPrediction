@@ -1,7 +1,7 @@
 # Red and White Wine Quality Modelling
 
 CSCI323 Modern AI — Group FT13
-Yong Le, Jiachen, Jing Ting,Jae Hyun, Ian and Sherya.
+Yong Le, Jiachen, Jing Ting, Jae Hyun, Ian and Sherya.
 
 ## Project Overview
 
@@ -63,7 +63,7 @@ The notebook includes:
 7. Marginal-case analysis and feature importance
 8. Supplementary XGBoost comparison
 9. Complete red and white wine model comparison
-
+10. Random Forest regression vs classification and feature importance (separate notebook: RF_Regression_vs_Classification.ipynb)
 
 ## Reading the Outputs
 
